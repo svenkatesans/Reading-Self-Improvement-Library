@@ -1,7 +1,7 @@
 # Reading-Self-Improvement-Library
  glimpse into the powerful books that have inspired me—Robin Sharma, Brian Tracy, Outliers, Zero to One, and more. Reading has been my lifelong teacher.
 
- ✅ Books You Have Completed:
+ ✅ Books i Have Completed:
 1.The Monk Who Sold His Ferrari – Robin Sharma
 
 2.Eat That Frog – Brian Tracy
@@ -28,7 +28,7 @@
 
 13.Robin Sharma’s books – multiple titles 
 
-📚 Books You Are Yet to Complete / Planned to Read:
+📚 Books I Are Yet to Complete / Planned to Read:
 1.Atlas Shrugged – Ayn Rand
 
 2.The Kite Runner – Khaled Hosseini
